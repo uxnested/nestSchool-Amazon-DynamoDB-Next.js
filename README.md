@@ -1,0 +1,1 @@
+# nestSchool-Amazon-DynamoDB-Next.js
